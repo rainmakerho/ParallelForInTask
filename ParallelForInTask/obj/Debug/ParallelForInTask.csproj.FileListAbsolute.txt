@@ -1,0 +1,5 @@
+c:\users\rainm\documents\visual studio 2017\Projects\ParallelForInTask\ParallelForInTask\bin\Debug\ParallelForInTask.exe.config
+c:\users\rainm\documents\visual studio 2017\Projects\ParallelForInTask\ParallelForInTask\bin\Debug\ParallelForInTask.exe
+c:\users\rainm\documents\visual studio 2017\Projects\ParallelForInTask\ParallelForInTask\bin\Debug\ParallelForInTask.pdb
+c:\users\rainm\documents\visual studio 2017\Projects\ParallelForInTask\ParallelForInTask\obj\Debug\ParallelForInTask.exe
+c:\users\rainm\documents\visual studio 2017\Projects\ParallelForInTask\ParallelForInTask\obj\Debug\ParallelForInTask.pdb
